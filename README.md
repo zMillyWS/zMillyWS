@@ -2,18 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Emilly%20Eing%20Westphal&fontSize=40&fontAlign=center&fontColor=ffffff" alt="banner">
 </p>
 <p align="center">
-  <strong>Desenvolvedora Fullstack | Apaixonada por tecnologia | Estudante dedicada</strong>
+  <strong>Fullstack Developer | Technology Enthusiast | Dedicated Student</strong>
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 About Me
 
-Olá! Eu sou a **Emilly**, desenvolvedora fullstack atualmente trabalhando na **Multiplike**. Apaixonada por programação desde criança, hoje atuo no desenvolvimento de aplicações web com foco em performance, organização e experiência do usuário.
+Hello! I'm **Emilly**, a fullstack developer at **Multiplike**. Passionate about programming since childhood, I currently work on complete solutions — from frontend to backend — with a focus on performance, code organization, and quality user experience.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,25 +30,25 @@ Olá! Eu sou a **Emilly**, desenvolvedora fullstack atualmente trabalhando na **
 
 ---
 
-## 🚀 Aprendendo agora
+## 🚀 Currently Learning
 
-![Udemy](https://img.shields.io/badge/Udemy-Programação%20em%20Python%20Avançado-A435F0?style=flat&logo=udemy&logoColor=white)  
-Atualmente fazendo o curso [Programação em Python do Básico ao Avançado – Udemy](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
+![Udemy](https://img.shields.io/badge/Udemy-Advanced%20Python%20Programming-A435F0?style=flat&logo=udemy&logoColor=white)  
+Currently taking the course [Complete Python Programming – Udemy](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
 
 ---
 
-## 🎓 Formação
+## 🎓 Education
 
-- 💻 ![Uniasselvi](https://img.shields.io/badge/-Engenharia%20de%20Software-FFD700?style=flat&logo=google-classroom&logoColor=black) – Uniasselvi (em andamento)  
-- 💻 ![Uniasselvi](https://img.shields.io/badge/-Análise%20e%20Desenvolvimento%20de%20Sistemas-FFD700?style=flat&logo=google-classroom&logoColor=black) – Uniasselvi (em andamento)
+- 💻 ![Uniasselvi](https://img.shields.io/badge/-Software%20Engineering-FFD700?style=flat&logo=google-classroom&logoColor=black) – Uniasselvi (in progress)  
+- 💻 ![Uniasselvi](https://img.shields.io/badge/-Systems%20Analysis%20and%20Development-FFD700?style=flat&logo=google-classroom&logoColor=black) – Uniasselvi (in progress)
 
-### 📜 Certificações Complementares
+### 📜 Additional Certifications
 
-- Introdução à Linguagem CSS – Alfahelix (fev/2025)  
-- Introdução à Linguagem HTML – Alfahelix (fev/2025)  
-- Introdução ao Git e ao GitHub – DIO (jul/2021)  
-- Introdução ao Kotlin – DIO (jul/2021)  
-- Lógica de Programação Essencial – DIO (jul/2021)
+- Introduction to CSS – Alfahelix (Feb/2025)  
+- Introduction to HTML – Alfahelix (Feb/2025)  
+- Introduction to Git and GitHub – DIO (Jul/2021)  
+- Introduction to Kotlin – DIO (Jul/2021)  
+- Essential Programming Logic – DIO (Jul/2021)
 
 ---
 
@@ -64,7 +64,7 @@ Atualmente fazendo o curso [Programação em Python do Básico ao Avançado – 
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - ✉️ Email: emillyewestphal@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emilly-westphal-739920217/)
